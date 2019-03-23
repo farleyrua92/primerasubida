@@ -1,0 +1,14 @@
+{
+  "name": "repositorio",
+  "version": "1.0.0",
+  "description": "primer trabajo",
+  "main": "calculos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farley farley.rua@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
